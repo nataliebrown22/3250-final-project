@@ -7,17 +7,19 @@
 *  [x] Create GitHub respority for project
 *  [ ] Fill out project description
 *  [ ] Gather raw data
-   *  [ ] data from kaggle
-   *  [ ] data from API or scraping
+   *  [x] data from kaggle
+   *  [x] data from API or scraping
 *  [ ] Clean raw data
 *  [ ] Perform analysis
 
 
 ## Change Log
-| date | initials | folder | file | change made |
-|------|----------|--------|------|-------------|
-| 11-13-2024 | NB | BAIS-final-project | README.md | created README for main page |
-| 11-13-2024 | NB | BAIS-final-project | README.md | added to To Do List |
+| date | initials | change made |
+|------|----------|--------|
+| 11-13-2024 | NB | created README for main page |
+| 11-13-2024 | NB | added to To Do List |
+| 11-14-2024 | NB | Scraped API for raw data, cleaned raw data, imported data from Kaggle and cleaned the data |
+| 11-14-2024 | NB | Created README for code and data folders and created sub-folders for code and data sets |
 
 
 ## Folders
