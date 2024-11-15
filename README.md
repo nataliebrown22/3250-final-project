@@ -25,6 +25,7 @@
 | 11-13-2024 | NB | added to To Do List |
 | 11-14-2024 | NB | Scraped API for raw data, cleaned raw data, imported data from Kaggle and cleaned the data |
 | 11-14-2024 | NB | Created README for code and data folders and created sub-folders for code and data sets |
+| 11-15-2024 | NB | Added to To Do List |
 
 
 ## Folders
