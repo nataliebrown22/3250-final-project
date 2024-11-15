@@ -6,10 +6,15 @@
 ## To Do List:
 *  [x] Create GitHub respority for project
 *  [ ] Fill out project description
-*  [ ] Gather raw data
+*  [x] Gather raw data
    *  [x] data from kaggle
    *  [x] data from API or scraping
-*  [ ] Clean raw data
+*  [x] Clean raw data
+*  [ ] Merge data sets
+*  [ ] Impute null values
+    * [ ] Determine the correct imputation method for each column
+    * [ ] Impute based on the correct method
+*  [ ] Create new calculated columns to supplement analysis
 *  [ ] Perform analysis
 
 
