@@ -1,4 +1,4 @@
-country,continent,covid_cases,covid_deaths,land_area_km2,population
+country,continent,covid_cases,covid_deaths,area_km2,population
 Afghanistan,Asia,46498,1774,652000,39306195
 Albania,Europe,37625,798,28748,2876490
 Algeria,Africa,83199,2431,2381741,44190030
