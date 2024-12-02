@@ -10,10 +10,10 @@
    *  [x] data from kaggle
    *  [x] data from API or scraping
 *  [x] Clean raw data
-*  [ ] Merge data sets
-*  [ ] Impute null values
-    * [ ] Determine the correct imputation method for each column
-    * [ ] Impute based on the correct method
+*  [x] Merge data sets
+*  [x] Impute null values
+    * [x] Determine the correct imputation method for each column
+    * [x] Impute based on the correct method
 *  [ ] Create new calculated columns to supplement analysis
 *  [ ] Perform analysis
 
