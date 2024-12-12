@@ -1,7 +1,11 @@
 # BAIS:3250 Final Project
 **Author(s):** Natalie Brown, Max Kaiser
 
-**Description:** This project is ......
+**Description:** 
+* **Question:** Health of Country
+* **Question:** Wealth of Country
+* **Question:** How are health and wealth related?
+* **Question:** Are there continental trends?
 
 ## To Do List:
 *  [x] Create GitHub respority for project
@@ -15,7 +19,9 @@
     * [x] Determine the correct imputation method for each column
     * [x] Impute based on the correct method
 *  [ ] Create new calculated columns to supplement analysis
-*  [ ] Perform analysis
+  *  [ ] Covid Death Rate
+*  [ ] Drop unecessary columns for analysis 
+*  [ ] Perform Analysis of Questions
 
 
 ## Change Log
