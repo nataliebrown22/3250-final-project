@@ -1,12 +1,13 @@
 # Data Folder
 ## Sub-Folders
 
-* **source data (1):** *[Countries of the World 2023](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023?resource=download)*
-* **source data (2):** *[RESTful Countries API](https://restfulcountries.com/)*
+### Source Data
+* *[Countries of the World 2023](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023?resource=download)*
+* *[RESTful Countries API](https://restfulcountries.com/)*
 
-
-* **supplementary data (1):** *[CIA World Factbook](https://www.cia.gov/the-world-factbook)* 
-* **supplementary data (2):** *[Our World in Data](https://ourworldindata.org/)*
+### Supplementary Data
+* *[CIA World Factbook](https://www.cia.gov/the-world-factbook)* 
+* *[Our World in Data](https://ourworldindata.org/)*
 
 ### [raw_data](raw_data)
 Original, unmodified data after downloading, scraping, etc.
