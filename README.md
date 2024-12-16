@@ -9,7 +9,7 @@
 
 ## To Do List:
 *  [x] Create GitHub respority for project
-*  [ ] Fill out project description
+*  [x] Fill out project description
 *  [x] Gather raw data
    *  [x] data from kaggle
    *  [x] data from API or scraping
@@ -18,10 +18,10 @@
 *  [x] Impute null values
     * [x] Determine the correct imputation method for each column
     * [x] Impute based on the correct method
-*  [ ] Create new calculated columns to supplement analysis
-  *  [ ] Covid Death Rate
-*  [ ] Drop unecessary columns for analysis 
-*  [ ] Perform Analysis of Questions
+*  [x] Create new calculated columns to supplement analysis
+  *  [x] Covid Death Rate
+*  [x] Drop unecessary columns for analysis 
+*  [x] Perform Analysis of Questions
 
 
 ## Change Log
